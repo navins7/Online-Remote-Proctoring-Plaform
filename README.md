@@ -1,6 +1,6 @@
 # Online-Remote-Proctoring-Plaform
--Custom real-time “Online Remote Proctoring Platform” that proctors using Computer Vision and Machine Learning Algorithms. 
--Automated customizable proctoring platform that continuously verifies the identity of online test-takers, while detecting and deterring misconduct using Artificial Intelligence.
+- Custom real-time “Online Remote Proctoring Platform” that proctors using Computer Vision and Machine Learning Algorithms. 
+- Automated customizable proctoring platform that continuously verifies the identity of online test-takers, while detecting and deterring misconduct using Artificial Intelligence.
 
 # Online Remote Proctoring
 
@@ -49,4 +49,4 @@ In online test without proctoring, cases are often reported of impersonation and
 
 ## Team Members
 
-![Team Architecture](./assets/team.jpeg)
+![Team Architecture](./ASEAN.jpeg)
