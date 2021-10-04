@@ -1,0 +1,19 @@
+.loginform {
+  margin-top: 1%;
+  width: 33%;
+}
+.inp {
+  width: 85%;
+}
+.userImage {
+  width: 95%;
+  height: auto;
+}
+.captureBtn {
+  width: 50%;
+  height: 30px;
+  margin-top: 10px;
+}
+.captureBtn:hover {
+  cursor: pointer;
+}

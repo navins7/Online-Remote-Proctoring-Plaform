@@ -1,0 +1,18 @@
+.dashboard_header {
+  height: 50px;
+  background: #8fcaf9;
+  width: 100%;
+  position: sticky;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.dashboard_product {
+  position: fixed;
+  left: 0;
+  margin-left: 1rem;
+  font-weight: 300;
+}
+.dashboard_logout_btn {
+  margin-right: 1rem !important;
+}

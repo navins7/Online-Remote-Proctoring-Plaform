@@ -1,0 +1,72 @@
+.test_container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid black;
+}
+
+.test_header {
+  margin-top: 1.5rem;
+}
+
+.test_details {
+  margin-top: 0.6rem;
+}
+
+.test_details h3 {
+  font-weight: 300;
+  margin: 0.6rem;
+}
+
+.question_container {
+  width: 100%;
+  position: relative;
+}
+
+.calculator_logo {
+  width: 40px;
+  margin: 1px;
+  background: rgb(241, 241, 241);
+}
+.calculator_btn {
+  border: 1px solid black !important;
+}
+
+.transcript_actual {
+  width: 35rem;
+}
+
+.test_meta {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.test_meta_split {
+  width: 33%;
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.webcam_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin-top: 2rem;
+  flex-direction: column;
+}
+
+.navBtn {
+  margin: 1rem !important;
+  margin-left: 3rem !important;
+}

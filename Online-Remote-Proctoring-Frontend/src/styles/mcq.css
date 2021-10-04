@@ -1,0 +1,25 @@
+.mcq_container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 3rem;
+  flex-direction: column;
+}
+
+.mcq_question_no {
+  font-weight: 300;
+}
+
+.mcq_question {
+  font-weight: 300;
+  user-select: none;
+}
+
+.mcq_options {
+  display: flex;
+  margin-top: 2rem;
+  width: 100%;
+  user-select: none;
+}

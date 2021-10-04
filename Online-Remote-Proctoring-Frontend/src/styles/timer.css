@@ -1,0 +1,14 @@
+.timer_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-weight: 100;
+}
+.timer_container h2 {
+    font-weight: 300;
+    margin: 5px;
+}
+.timer_time {
+    font-weight: 700;
+}
