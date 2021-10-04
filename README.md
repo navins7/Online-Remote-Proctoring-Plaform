@@ -43,10 +43,6 @@ In online test without proctoring, cases are often reported of impersonation and
    - Online-Remote-Proctoring-AI
    - Online-Remote-Proctoring-Backend
    - Online-Remote-Proctoring-Frontend
-- To install the frontend, go to https://github.com/Sid200026/Online-Remote-Proctoring-Frontend
-- To install the backend, go to https://github.com/Sid200026/Online-Remote-Proctoring-Backend
-- To install the ai-platform, go to https://github.com/Sid200026/Online-Remote-Proctoring-AI
-
 ## Team Members
 
 ![Team Architecture](./ASEAN.jpeg)
